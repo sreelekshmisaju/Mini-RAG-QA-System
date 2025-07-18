@@ -144,7 +144,7 @@ mini-rag-qa/
 ##  How to Run
 
 ```bash
-# 1. Create and activate virtual environment (optional)
+# 1. Create and activate virtual environment 
 python -m venv rag_env
 source rag_env/bin/activate  # or use `rag_env\Scripts\activate` on Windows
 
