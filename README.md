@@ -94,10 +94,16 @@ Debugging LangChain deprecation warnings.
 
 ---
 
-##  Sample Output
 
-**Sample Question:**
-`Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission`
+## 🧪 Sample Test Cases
+
+1. **Question:**
+   *"Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission"*
+
+2. **Question:**
+   *"What are the diagnostic criteria for Obsessive-Compulsive Disorder (OCD)?"*
+
+
 
 **Answer:**
 *(Generated answer appears  can also be downloaded as a .txt file.)*
@@ -129,5 +135,25 @@ mini-rag-qa/
 ├── data/                          # Stores uploaded files and vectorstore
 ├── README.md                      # Explanatory note
 ```
+
+
+
+
+
+
+##  How to Run
+
+```bash
+# 1. Create and activate virtual environment (optional)
+python -m venv rag_env
+source rag_env/bin/activate  # or use `rag_env\Scripts\activate` on Windows
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Launch the Streamlit app
+python -m streamlit run main.py
+```
+
 
 
