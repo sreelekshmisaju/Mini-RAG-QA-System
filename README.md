@@ -103,6 +103,18 @@ Debugging LangChain deprecation warnings.
 *(Generated answer appears  can also be downloaded as a .txt file.)*
 
 ---
+## Completed Requirements Summary
+| Requirement                            
+| -------------------------------------- 
+| Document ingestion and chunking        
+| Embedding and vector store setup       
+| Query input and semantic retrieval     
+| LLM answer generation                  
+| Sample test question support           
+| Streamlit UI with file upload/download 
+| Multiple file format support           
+| Output styling and download           
+
 
 ##  Project Structure
 
