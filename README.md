@@ -57,17 +57,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** based Questio
 
 ---
 
-## Where AI Tools (ChatGPT/Copilot) Were Used
 
-ChatGPT was used as a coding assistant for:
-
-Understanding and verifying RAG architecture.
-
-Writing initial boilerplate code for document loaders and chunking.
-
-Debugging LangChain deprecation warnings.
-
----
 
 ##  Limitations (Due to Time/Resource Constraints)
 
