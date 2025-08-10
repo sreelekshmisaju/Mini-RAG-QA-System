@@ -4,7 +4,7 @@
 
 ##  Objective
 
-This project implements a **Retrieval-Augmented Generation (RAG)** based Question-Answering (QA) system using an open-source LLM. The system enables users to upload a medical document (PDF/DOCX/TXT), ask domain-related questions, and receive generated answers grounded in the uploaded content.
+This project implements a **Retrieval-Augmented Generation (RAG)** based Question-Answering (QA) system using an open-source LLM. The system enables users to upload a  document (PDF/DOCX/TXT), ask domain-related questions, and receive generated answers grounded in the uploaded content.
 
 ---
 
