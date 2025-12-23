@@ -8,7 +8,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** based Questio
 
 ---
 
-## 🛠️ Tools and Models Used
+##  Tools and Models Used
 
 | Category         | Tool/Model                                     | Purpose                                          |
 | ---------------- | ---------------------------------------------- | ------------------------------------------------ |
@@ -85,7 +85,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** based Questio
 ---
 
 
-## 🧪 Sample Test Cases
+##  Sample Test Cases
 
 1. **Question:**
    *"Give me the correct coded classification for the following diagnosis: Recurrent depressive disorder, currently in remission"*
