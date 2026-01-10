@@ -1,6 +1,6 @@
 
 
-#  Mini RAG QA System 
+# RAG QA System 
 
 ##  Objective
 
